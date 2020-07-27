@@ -1,7 +1,7 @@
 # Fuzzy-C-Means
 Compress pictures using FCM algorithm    
 
-* Origial picture:  
+* The origial picture:  
 
 ![image](https://github.com/ciat31318/Fuzzy-C-Means/blob/master/src/%E5%8E%9F%E5%9C%96.jpg)  
 
